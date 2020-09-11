@@ -1,2 +1,11 @@
-# sasac.org
-sasacs website Vulnerability detection
+#### 问题描述
+中油负责开发的国资委系统接口存在rce，溢出导致。
+#### 问题待办
+这里进行漏洞测检测，然后升级安装包。
+#### 用法
+使用环境：windows x64    python2
+```
+usage：pthon rce.py ip 端口 
+```
+
+
